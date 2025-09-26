@@ -24,7 +24,7 @@ A compact portfolio project that scrapes, cleans, and analyzes Hong Kong *privat
 **Quick takeaways**
 - EV share rose rapidly post-2021, with a brief cooldown and re-acceleration in 2025H1.  
 - The 12-month rolling series smooths monthly volatility and shows the structural uptrend.  
-- 2025H1 brand leaderboard is led by **BYD**, **TESLA**, and **TOYOTA** (registrations).
+- 2025H1 brand leaderboard is led by **BYD**, **TESLA**, and **B.M.W** (registrations).
 
 ---
 
