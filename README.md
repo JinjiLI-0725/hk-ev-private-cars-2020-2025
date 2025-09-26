@@ -29,3 +29,18 @@ A compact portfolio project that scrapes, cleans, and analyzes Hong Kong *privat
 ---
 
 ## Project structure
+├─ hk_cars_scraping_cleaning_2020_25.ipynb # Scrape + clean + export tidy tables
+├─ hk_ev_trend_analysis .ipynb # (Exploratory) pandas + matplotlib analysis
+├─ hk_ev_trend_SQL_analysis.ipynb # SQL queries (DuckDB/SQLite via pandas)
+├─ ev.db # (optional) a small DB used by the SQL notebook
+├─ webbsite_hk_private_cars_by_month.xls # Brand x fuel x month (cleaned)
+├─ webbsite_hk_private_cars_monthly_SUM_2020_2025.xls
+└─ images/
+├─ Overall_EV_share_trend_2020-2025.png
+├─ EV_volume_12month_rolling.png
+├─ top_ev_brands_2020_2025H1.png
+├─ top_ev_brands_panel_2021_2025.png
+├─ tesla_ev_share_trend.png
+├─ Tesla_share_of_EV_12_monthrolling.png
+└─ ev_monthly_tesla_vs_byd.png
+
