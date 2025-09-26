@@ -43,4 +43,7 @@ A compact portfolio project that scrapes, cleans, and analyzes Hong Kong *privat
 ├─ tesla_ev_share_trend.png
 ├─ Tesla_share_of_EV_12_monthrolling.png
 └─ ev_monthly_tesla_vs_byd.png
-
+## License
+- Code: MIT © 2025 Jinji Li
+- Charts & images (folder `/images`): CC BY 4.0 © 2025 Jinji Li
+- Data source: Hong Kong Transport Dept via webb-site (for research/educational use). Please follow the original site's terms.
