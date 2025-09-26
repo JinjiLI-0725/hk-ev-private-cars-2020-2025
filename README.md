@@ -11,14 +11,15 @@ A compact portfolio project that scrapes, cleans, and analyzes Hong Kong *privat
 
 ---
 
+
 ## Highlights
 
-|  |  |
-|---|---|
 | **EV share — 2020–2025** | **EV volume (12-month rolling)** |
+|---|---|
 | ![EV share](images/Overall_EV_share_trend_2020-2025.png) | ![EV volume 12m](images/EV_volume_12month_rolling.png) |
-| **Top brands (2025 H1)** |  |
-| ![Top brands 2025H1](images/top_ev_brands_2020_2025H1.png) |  |
+| **Top brands (2025 H1)** | **Top brands panel (2021–2025)** |
+| ![Top brands 2025H1](images/top_ev_brands_2020_2025H1.png) | ![Top brands panel 2021–2025](images/top_ev_brands_panel_2021_2025.png) |
+
 
 
 **Quick takeaways**
